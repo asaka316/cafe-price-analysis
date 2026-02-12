@@ -1,0 +1,34 @@
+[
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "url_category": "https://www.doutor.co.jp/dcs/menu/list/hotdrink.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "url_category": "https://www.doutor.co.jp/dcs/menu/list/icedrink.html"
+  },
+  {
+    "category": "Milano Sandwich MILANO SANDWICH",
+    "url_category": "https://www.doutor.co.jp/dcs/menu/list/milano.html"
+  },
+  {
+    "category": "German hot dog HOT DOG",
+    "url_category": "https://www.doutor.co.jp/dcs/menu/list/hotdog.html"
+  },
+  {
+    "category": "Morning Set BREAKFAST",
+    "url_category": "https://www.doutor.co.jp/dcs/menu/list/morning.html"
+  },
+  {
+    "category": "Hot sandwich HOT SANDWICH",
+    "url_category": "https://www.doutor.co.jp/dcs/menu/list/hotsandwich.html"
+  },
+  {
+    "category": "Toast TOAST",
+    "url_category": "https://www.doutor.co.jp/dcs/menu/list/toast.html"
+  },
+  {
+    "category": "dessert DESSERT",
+    "url_category": "https://www.doutor.co.jp/dcs/menu/list/sweets.html"
+  }
+]

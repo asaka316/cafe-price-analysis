@@ -1,0 +1,30 @@
+[
+  {
+    "category": "ドリンク",
+    "url_category": "https://www.tullys.co.jp/menu/drink/"
+  },
+  {
+    "category": "フード",
+    "url_category": "https://www.tullys.co.jp/menu/food/"
+  },
+  {
+    "category": "スイーツ",
+    "url_category": "https://www.tullys.co.jp/menu/sweets/"
+  },
+  {
+    "category": "Tʼsアイス",
+    "url_category": "https://www.tullys.co.jp/menu/ice/"
+  },
+  {
+    "category": "セット",
+    "url_category": "https://www.tullys.co.jp/menu/set/"
+  },
+  {
+    "category": "ハニー/グロッサリー",
+    "url_category": "https://www.tullys.co.jp/menu/tullys_honey/"
+  },
+  {
+    "category": "キッズメニュー",
+    "url_category": "https://www.tullys.co.jp/menu/kids/"
+  }
+]

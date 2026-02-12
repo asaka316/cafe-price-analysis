@@ -1,0 +1,302 @@
+[
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "抹茶キャラメルラテ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20251113172534.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Salted Caramel Latte",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20240926180758.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Kokuto latte",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20191031123921.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Matcha Soy latte",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20210824000838.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Matcha latte",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20140116130848.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Cocoa",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/2099.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Caffè mocha",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/2118.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Blend coffee",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20110907153810.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "American coffee",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20110907153900.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Espresso coffee",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20110907154201.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Caffè latte",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20110907154342.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Soy latte",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20520943.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Honey café au lait",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20520751.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Tea",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/210106.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Rooibos tea",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20200514134532.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Royal milk tea",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/2151.html"
+  },
+  {
+    "category": "Hot drinks HOT DRINKS",
+    "item": "Soy milk tea",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20131025122046.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "抹茶キャラメルラテ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20251113172816.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "塩キャラメルラテ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20240926181000.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "アイス沖縄黒糖ラテ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20191031130115.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "アイス抹茶豆乳ラテ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20210825181243.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "アイス抹茶ラテ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20140116131706.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Iced cocoa",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/2116.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Iced caffè mocha",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/2078.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Tapioca Kokuto milk",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20190625151835.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Tapioca royal milk tea",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20190625153418.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Iced coffee",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20110912122047.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Iced caffè latte",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20110912122326.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Iced soy latte",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/2096.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Iced honey café au lait",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/2081.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Iced tea",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/2122.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Iced rooibos tea",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20200703120545.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Iced royal milk tea",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/206606.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Iced soy milk tea",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20131025121733.html"
+  },
+  {
+    "category": "Ice Drinks ICE DRINK",
+    "item": "Unshu mandarin juice",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/207306.html"
+  },
+  {
+    "category": "Milano Sandwich MILANO SANDWICH",
+    "item": "Truffle-scented Milano sandwich Charcoal-grilled roast beef",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20251113173419.html"
+  },
+  {
+    "category": "Milano Sandwich MILANO SANDWICH",
+    "item": "Truffle-scented Milano sandwich, charcoal-grilled roast beef and Camembert cheese",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20251113173813.html"
+  },
+  {
+    "category": "Milano Sandwich MILANO SANDWICH",
+    "item": "Truffle-scented Milano sandwich, charcoal-grilled roast beef with gorgonzola sauce",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20251113173901.html"
+  },
+  {
+    "category": "Milano Sandwich MILANO SANDWICH",
+    "item": "Camembert in Milano sandwich B: Shrimp, avocado & salmon",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20250912132350.html"
+  },
+  {
+    "category": "Milano Sandwich MILANO SANDWICH",
+    "item": "Milano sandwich A: Fresh ham, boneless ham, Bologna sausage",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20210930000001.html"
+  },
+  {
+    "category": "Milano Sandwich MILANO SANDWICH",
+    "item": "Cheese in Milano sandwich A: Fresh ham, boneless ham, Bologna sausage",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20210930000002.html"
+  },
+  {
+    "category": "Milano Sandwich MILANO SANDWICH",
+    "item": "Milano sandwich B: Shrimp, avocado & salmon - Refreshing Lemon Flavor",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20250220160919.html"
+  },
+  {
+    "category": "German hot dog HOT DOG",
+    "item": "チーズソースフライドオニオンドック",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20250912132642.html"
+  },
+  {
+    "category": "German hot dog HOT DOG",
+    "item": "ジャーマンドック",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20110912123205.html"
+  },
+  {
+    "category": "German hot dog HOT DOG",
+    "item": "Lettuce hot dog",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20110912123258.html"
+  },
+  {
+    "category": "Morning Set BREAKFAST",
+    "item": "ホットモーニング スモークチキン＆トマト",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20251007164227.html"
+  },
+  {
+    "category": "Morning Set BREAKFAST",
+    "item": "モーニング・セットA　ハムタマゴサラダ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20221004104238.html"
+  },
+  {
+    "category": "Morning Set BREAKFAST",
+    "item": "モーニング・セットB　パストラミポーク&ポテト",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20240604162514.html"
+  },
+  {
+    "category": "Morning Set BREAKFAST",
+    "item": "[Store-limited] Morning Set C Bacon, lettuce, tomato, cheese",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20240618162328.html"
+  },
+  {
+    "category": "Hot sandwich HOT SANDWICH",
+    "item": "ホットサンド　大豆のミート ～チーズ＆トマト～",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20250912133152.html"
+  },
+  {
+    "category": "Hot sandwich HOT SANDWICH",
+    "item": "カルツォーネ　ナスとチーズのボロネーゼ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20250912133028.html"
+  },
+  {
+    "category": "Hot sandwich HOT SANDWICH",
+    "item": "ホットサンド　ツナチェダー",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20161108114019.html"
+  },
+  {
+    "category": "Toast TOAST",
+    "item": "トースト",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20110912124153.html"
+  },
+  {
+    "category": "Toast TOAST",
+    "item": "チーズトースト",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20110912124241.html"
+  },
+  {
+    "category": "dessert DESSERT",
+    "item": "ナッツ香るダブルチョコレートケーキ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20251113174119.html"
+  },
+  {
+    "category": "dessert DESSERT",
+    "item": "パリパリチョコキャラメルミルクレープ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20251007164913.html"
+  },
+  {
+    "category": "dessert DESSERT",
+    "item": "熊本県産和栗のモンブラン",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20180816145913.html"
+  },
+  {
+    "category": "dessert DESSERT",
+    "item": "北海道産かぼちゃのタルト",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20180816151831.html"
+  },
+  {
+    "category": "dessert DESSERT",
+    "item": "ミルクレープ",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20140818181442.html"
+  },
+  {
+    "category": "dessert DESSERT",
+    "item": "Baked Cheesecake ~Graham Cookies with Walnuts~",
+    "url_item": "https://www.doutor.co.jp/dcs/menu/detail/20190925120932.html"
+  }
+]

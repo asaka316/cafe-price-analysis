@@ -1,0 +1,542 @@
+[
+  {
+    "category": "ドリンク",
+    "item": "ホワイトショコラオランジュラテ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/w_chocolate_orange.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "カフェモカ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/25cafe_mocha.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "バニララテ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/25vanilla_latte.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "カフェオレ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/25cafe_au_lait.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "本日のコーヒー",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/todays.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "アイスコーヒー",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/iced.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "デカフェ コーヒー カフェインレス",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/decaf.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "キャラメルラテ with ソルティーキャラメルソース",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/soltycara_latte.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "ハニーミルクラテ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/honey_m.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "カプチーノ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/tullys_cappuccino.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "ソイラテ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/soymilk.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "カフェ アメリカーノ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/es_americano.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "カフェラテ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/cafe_latte.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "エスプレッソマキアート",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/espresso_macchiato.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "エスプレッソコンパナ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/espresso_conpanna.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "エスプレッソ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/coffee/espresso.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "&TEA チェリーボンボンロイヤルミルクティー",
+    "url_item": "https://www.tullys.co.jp/menu/drink/tea/cherry_bonbon_rt.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "&TEA ジンジャーハニーレモネードティー",
+    "url_item": "https://www.tullys.co.jp/menu/drink/tea/25ginger_lemonade_tea.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "水出しアイスティー",
+    "url_item": "https://www.tullys.co.jp/menu/drink/tea/ice_tea.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "チャイミルクティー",
+    "url_item": "https://www.tullys.co.jp/menu/drink/tea/chaimilk_tea.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "ロイヤルミルクティー",
+    "url_item": "https://www.tullys.co.jp/menu/drink/tea/royal_milktea.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "オリジナル  ～マラウイ&ダージリン～",
+    "url_item": "https://www.tullys.co.jp/menu/drink/tea/tea_original.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "エスプレッソシェイク",
+    "url_item": "https://www.tullys.co.jp/menu/drink/swirkle/esp_shake.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "チョコリスタ®",
+    "url_item": "https://www.tullys.co.jp/menu/drink/swirkle/renewal.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "ティーリスタ® アールグレイロイヤル",
+    "url_item": "https://www.tullys.co.jp/menu/drink/swirkle/tealista_frozen.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "抹茶リスタ®",
+    "url_item": "https://www.tullys.co.jp/menu/drink/swirkle/matchalista_2021.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "ほうじ茶リスタ®",
+    "url_item": "https://www.tullys.co.jp/menu/drink/swirkle/hojichalista_2021.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "マンゴータンゴスワークル®",
+    "url_item": "https://www.tullys.co.jp/menu/drink/swirkle/mango_swirkle.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "ほうじ茶ラテ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/other_d/houji_latte.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "りんごストレート100％",
+    "url_item": "https://www.tullys.co.jp/menu/drink/other_d/apple100.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "ヨーグルト＆アサイー",
+    "url_item": "https://www.tullys.co.jp/menu/drink/other_d/yogurt_acai.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "ブラッドオレンジジュース",
+    "url_item": "https://www.tullys.co.jp/menu/drink/other_d/b_orange.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "ミルク",
+    "url_item": "https://www.tullys.co.jp/menu/drink/other_d/milk.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "宇治抹茶ラテ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/other_d/gt_latte.html"
+  },
+  {
+    "category": "ドリンク",
+    "item": "ココアラテ",
+    "url_item": "https://www.tullys.co.jp/menu/drink/other_d/choco.html"
+  },
+  {
+    "category": "フード",
+    "item": "ベーグルサンド　アールグレイミルクティー",
+    "url_item": "https://www.tullys.co.jp/menu/food/sandwich/bagel_sandwich_earlgrey_mt.html"
+  },
+  {
+    "category": "フード",
+    "item": "チキンカツサンド ～粒マスタード＆デミソース～",
+    "url_item": "https://www.tullys.co.jp/menu/food/sandwich/chikin_cutle_sandwich.html"
+  },
+  {
+    "category": "フード",
+    "item": "３種のデリ風サラダサンド",
+    "url_item": "https://www.tullys.co.jp/menu/food/sandwich/deli_salada.html"
+  },
+  {
+    "category": "フード",
+    "item": "たっぷりタマゴサンド",
+    "url_item": "https://www.tullys.co.jp/menu/food/sandwich/egg_salad_s24.html"
+  },
+  {
+    "category": "フード",
+    "item": "国産ポークメンチのバラエティーボックス",
+    "url_item": "https://www.tullys.co.jp/menu/food/sandwich/vb_pork_mince.html"
+  },
+  {
+    "category": "フード",
+    "item": "ハムチーズ＆サラダサンド",
+    "url_item": "https://www.tullys.co.jp/menu/food/sandwich/hamcheese_salad_sand.html"
+  },
+  {
+    "category": "フード",
+    "item": "シナモンロール",
+    "url_item": "https://www.tullys.co.jp/menu/food/pastry/26_cinnamonroll.html"
+  },
+  {
+    "category": "フード",
+    "item": "チョコオールドファッション",
+    "url_item": "https://www.tullys.co.jp/menu/food/pastry/26_oldfashioned.html"
+  },
+  {
+    "category": "フード",
+    "item": "抹茶パン・オ・ショコラ",
+    "url_item": "https://www.tullys.co.jp/menu/food/pastry/matcha_pan_au_chocolat.html"
+  },
+  {
+    "category": "フード",
+    "item": "ストロベリーデニッシュ",
+    "url_item": "https://www.tullys.co.jp/menu/food/pastry/25strawberry_danish.html"
+  },
+  {
+    "category": "フード",
+    "item": "アップルパイ～国産りんご＆北海道牛乳クリーム ～",
+    "url_item": "https://www.tullys.co.jp/menu/food/pastry/25_appie_cream.html"
+  },
+  {
+    "category": "フード",
+    "item": "安納芋のしっとりケーキドーナツ",
+    "url_item": "https://www.tullys.co.jp/menu/food/pastry/25anno_doughnut.html"
+  },
+  {
+    "category": "フード",
+    "item": "みみまでやわらかフレンチトースト",
+    "url_item": "https://www.tullys.co.jp/menu/food/pastry/25_french.html"
+  },
+  {
+    "category": "フード",
+    "item": "ふんわり7穀のシュガードーナツ",
+    "url_item": "https://www.tullys.co.jp/menu/food/pastry/sugar_doughnut23.html"
+  },
+  {
+    "category": "フード",
+    "item": "ハニーウォルナッツドーナツ",
+    "url_item": "https://www.tullys.co.jp/menu/food/pastry/honeynut.html"
+  },
+  {
+    "category": "フード",
+    "item": "ボールパークドッグ チリコンカン",
+    "url_item": "https://www.tullys.co.jp/menu/food/hotmeal/25_bd_chili.html"
+  },
+  {
+    "category": "フード",
+    "item": "イングリッシュマフィン ツナチーズ",
+    "url_item": "https://www.tullys.co.jp/menu/food/hotmeal/english_muffin_tcs.html"
+  },
+  {
+    "category": "フード",
+    "item": "ピッツァ クワトロフォルマッジ",
+    "url_item": "https://www.tullys.co.jp/menu/food/hotmeal/pizza_qf24.html"
+  },
+  {
+    "category": "フード",
+    "item": "ボールパークドッグ オリジナル",
+    "url_item": "https://www.tullys.co.jp/menu/food/hotmeal/park_dog.html"
+  },
+  {
+    "category": "フード",
+    "item": "ボールパークドッグ アボカド",
+    "url_item": "https://www.tullys.co.jp/menu/food/hotmeal/park_dog_avo.html"
+  },
+  {
+    "category": "フード",
+    "item": "クロックムッシュのホットサンド",
+    "url_item": "https://www.tullys.co.jp/menu/food/hotmeal/croquemonsieur.html"
+  },
+  {
+    "category": "フード",
+    "item": "薫りとコクのカルボナーラwithパンチェッタ",
+    "url_item": "https://www.tullys.co.jp/menu/food/pasta/25_carbowithpancetta_pasta.html"
+  },
+  {
+    "category": "フード",
+    "item": "旬かぶの彩りジェノベーゼ",
+    "url_item": "https://www.tullys.co.jp/menu/food/pasta/25_turnip_geno_pasta.html"
+  },
+  {
+    "category": "フード",
+    "item": "九州産ゆず香る たらこパスタ",
+    "url_item": "https://www.tullys.co.jp/menu/food/pasta/25cod_roe_pasta_wy.html"
+  },
+  {
+    "category": "フード",
+    "item": "ゴロっと茄子とベーコンの完熟トマトパスタ",
+    "url_item": "https://www.tullys.co.jp/menu/food/pasta/25tomato_pasta_eb.html"
+  },
+  {
+    "category": "フード",
+    "item": "バターフィナンシェ",
+    "url_item": "https://www.tullys.co.jp/menu/food/packagedsnacks/butter_financier.html"
+  },
+  {
+    "category": "フード",
+    "item": "さつまいもチップス 塩バター仕立て",
+    "url_item": "https://www.tullys.co.jp/menu/food/packagedsnacks/25_satsu_chips.html"
+  },
+  {
+    "category": "フード",
+    "item": "ソフトクッキー プラリネ＆ダブルアーモンド",
+    "url_item": "https://www.tullys.co.jp/menu/food/packagedsnacks/25_cookie_pra_w.html"
+  },
+  {
+    "category": "フード",
+    "item": "ソフトクッキー バニラ＆チョコレートチャンク",
+    "url_item": "https://www.tullys.co.jp/menu/food/packagedsnacks/25_cookie_va_cho.html"
+  },
+  {
+    "category": "フード",
+    "item": "タリーズレーズンサンド",
+    "url_item": "https://www.tullys.co.jp/menu/food/packagedsnacks/raisin_cream_sandwich.html"
+  },
+  {
+    "category": "フード",
+    "item": "鳴門金時のスイートポテト",
+    "url_item": "https://www.tullys.co.jp/menu/food/packagedsnacks/sweet_pota.html"
+  },
+  {
+    "category": "フード",
+    "item": "バウムクーヘン",
+    "url_item": "https://www.tullys.co.jp/menu/food/packagedsnacks/baum.html"
+  },
+  {
+    "category": "スイーツ",
+    "item": "ザッハトルテ",
+    "url_item": "https://www.tullys.co.jp/menu/sweets/26_sachertorte.html"
+  },
+  {
+    "category": "スイーツ",
+    "item": "ストロベリー＆チーズムースパイ",
+    "url_item": "https://www.tullys.co.jp/menu/sweets/strawberry_cheese_mp.html"
+  },
+  {
+    "category": "スイーツ",
+    "item": "クラシックチョコレートケーキ",
+    "url_item": "https://www.tullys.co.jp/menu/sweets/chocolate_cake.html"
+  },
+  {
+    "category": "スイーツ",
+    "item": "ニューヨークチーズケーキ",
+    "url_item": "https://www.tullys.co.jp/menu/sweets/ny_cheese.html"
+  },
+  {
+    "category": "スイーツ",
+    "item": "メープルとバターの米粉パンケーキ",
+    "url_item": "https://www.tullys.co.jp/menu/sweets/riceflour_pancake_mb.html"
+  },
+  {
+    "category": "スイーツ",
+    "item": "フローズンカップアサイーヨーグルトテイスト",
+    "url_item": "https://www.tullys.co.jp/menu/sweets/25_acai_yogurt.html"
+  },
+  {
+    "category": "Tʼsアイス",
+    "item": "T's ストロベリーミルク",
+    "url_item": "https://www.tullys.co.jp/menu/ice/stb23.html"
+  },
+  {
+    "category": "Tʼsアイス",
+    "item": "T's バニラ",
+    "url_item": "https://www.tullys.co.jp/menu/ice/van.html"
+  },
+  {
+    "category": "Tʼsアイス",
+    "item": "T's 宇治抹茶",
+    "url_item": "https://www.tullys.co.jp/menu/ice/gtea.html"
+  },
+  {
+    "category": "Tʼsアイス",
+    "item": "T's カフェクラシコ",
+    "url_item": "https://www.tullys.co.jp/menu/ice/cafe_classico.html"
+  },
+  {
+    "category": "Tʼsアイス",
+    "item": "T's トリプルチョコレート",
+    "url_item": "https://www.tullys.co.jp/menu/ice/tch.html"
+  },
+  {
+    "category": "セット",
+    "item": "ザッハトルテ セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/sweetsplate/26_sachertorte_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "ストロベリー＆チーズムースパイセット",
+    "url_item": "https://www.tullys.co.jp/menu/set/sweetsplate/strawberry_cheese_mp_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "クラシックチョコレートケーキセット",
+    "url_item": "https://www.tullys.co.jp/menu/set/sweetsplate/chocolate_cake_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "ニューヨークチーズケーキ セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/sweetsplate/ny_cheese_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "メープルとバターの米粉パンケーキ セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/sweetsplate/riceflour_pancake_mb_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "フローズンカップアサイーヨーグルトテイスト　セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/sweetsplate/25_acai_yogurt_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "薫りとコクのカルボナーラwithパンチェッタ セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/food_s/25_carbowithpancetta_p_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "旬かぶの彩りジェノベーゼ　セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/food_s/25_turnip_geno_pasta_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "九州産ゆず香る たらこパスタ セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/food_s/25cod_roe_pasta_wy_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "ゴロっと茄子とベーコンの完熟トマトパスタ セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/food_s/25tomato_pasta_eb_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "ピッツァ クワトロフォルマッジ セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/food_s/pizza_qf24_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "イングリッシュマフィン ツナチーズ セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/morning_s/english_muffin_tcs_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "みみまでやわらかフレンチトースト セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/morning_s/25_french_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "たっぷりタマゴサンド セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/morning_s/egg_salad_s24_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "クロックムッシュのホットサンド セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/morning_s/croquemonsieur_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "ハムチーズ＆サラダサンド セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/morning_s/hamcheese_salad_sand_set.html"
+  },
+  {
+    "category": "セット",
+    "item": "ボールパークドッグ プレーン セット",
+    "url_item": "https://www.tullys.co.jp/menu/set/morning_s/park_dog_set.html"
+  },
+  {
+    "category": "ハニー/グロッサリー",
+    "item": "タリーズストロベリーベース 320g",
+    "url_item": "https://www.tullys.co.jp/menu/tullys_honey/_320g.html"
+  },
+  {
+    "category": "ハニー/グロッサリー",
+    "item": "フランス産 アカシアハニ― 190g",
+    "url_item": "https://www.tullys.co.jp/menu/tullys_honey/french_honey.html"
+  },
+  {
+    "category": "ハニー/グロッサリー",
+    "item": "ロイヤルミルクティーベース 300ml",
+    "url_item": "https://www.tullys.co.jp/menu/tullys_honey/rmb.html"
+  },
+  {
+    "category": "ハニー/グロッサリー",
+    "item": "Tully's Specialty カフェオレベース　300ml",
+    "url_item": "https://www.tullys.co.jp/menu/tullys_honey/cafeaulait_base.html"
+  },
+  {
+    "category": "ハニー/グロッサリー",
+    "item": "タリーズハニー（オリジナルブレンド）",
+    "url_item": "https://www.tullys.co.jp/menu/tullys_honey/honey_originalblend.html"
+  },
+  {
+    "category": "ハニー/グロッサリー",
+    "item": "タリーズ ソイミルク",
+    "url_item": "https://www.tullys.co.jp/menu/tullys_honey/soymilk.html"
+  },
+  {
+    "category": "キッズメニュー",
+    "item": "おやこパスタセット",
+    "url_item": "https://www.tullys.co.jp/menu/kids/25_oyakopasta.html"
+  },
+  {
+    "category": "キッズメニュー",
+    "item": "ベアフルのメープル米粉パンケーキ",
+    "url_item": "https://www.tullys.co.jp/menu/kids/kids_pancake24.html.html"
+  },
+  {
+    "category": "キッズメニュー",
+    "item": "キッズ T'sアイス",
+    "url_item": "https://www.tullys.co.jp/menu/kids/kids_ice23.html"
+  },
+  {
+    "category": "キッズメニュー",
+    "item": "キッズ ふんわり7穀のシュガードーナツ",
+    "url_item": "https://www.tullys.co.jp/menu/kids/kids_7doughnut.html"
+  },
+  {
+    "category": "キッズメニュー",
+    "item": "キッズ ミルク",
+    "url_item": "https://www.tullys.co.jp/menu/kids/kids_milk23.html"
+  },
+  {
+    "category": "キッズメニュー",
+    "item": "キッズ ココア",
+    "url_item": "https://www.tullys.co.jp/menu/kids/kids_cocoa23.html"
+  },
+  {
+    "category": "キッズメニュー",
+    "item": "キッズ りんごストレート100％",
+    "url_item": "https://www.tullys.co.jp/menu/kids/kids_apple23.html"
+  }
+]
